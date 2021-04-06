@@ -1,30 +1,16 @@
-# Index Page
+# ![](images/favicon.png) DocOps Assignment Page
 
-## Wizeline DocOps Template
+## Gerardo Velasco Macias
 
-Welcome to the DocOps Template
+ I'm a Project Manager and Technical Writer who's trying to help others by doing things that make me happy. 
 
-## Adding Information to the Page
+## Things to find on this  page.
 
-Use Markdown to add information to the pages of your site.
-
-For example, here is a list:
-
-1.  Item 1giti 
-2.  Item 2
-3.  Item 3
+I didn't dedicate a lot of time to do this assignment, since my project / training is taking a lot of time from me, so this is what you will find here.
 
 Here is another list:
 
-* Another item
-* Another item
-
-## Adding a New Page
-
-Add new pages to your site doing the following:
-
-1. Create a _.md_ file to the **docs** folder.
-2. Open the **mkdocs.yml** file.
-3. Add the title of the page and the name of the _.md_ file you created under **nav:**.
-
-To learn more about how to write your documents using MkDocs, refer to the official page [Writing your docs](https://www.mkdocs.org/user-guide/writing-your-docs/).
+* Some of my past projects.
+* My Education
+* Hobbies
+* Fun Facts about Me.

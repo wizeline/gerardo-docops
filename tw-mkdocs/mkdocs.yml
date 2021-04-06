@@ -1,11 +1,13 @@
-site_name: Wizeline MkDocs Template
+site_name: Gerardo Velasco's Site
 nav:
   - Home: index.md
-  - About: about.md
+  - Projects: pastProjects.md
+  - Education: education.md
+  - Hobbies and Fun Facts: hobbies.md
 
 theme:
   name: material
   palette:
-    primary: black
-    accent: indigo
-  logo: images/wizeline_isotype.png
+    primary: indigo
+    accent: orange
+  logo: favicon.png
